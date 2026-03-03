@@ -87,3 +87,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## About Me
 Hi there! I'm **Akinola Iyinoluwa**. I analyze and visualize data to help you solve your everyday problems.
+Feel free to reach out with feedback or questions:
+- **Email**: [akinolaiyin@gmail.com]
